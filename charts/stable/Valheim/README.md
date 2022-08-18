@@ -19,6 +19,7 @@ For more information, please click here: [valheim](https://truecharts.org/docs/c
 
 ## Requirements
 
+
 Kubernetes: `>=1.16.0-0`
 
 ## Dependencies
